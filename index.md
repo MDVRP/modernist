@@ -10,15 +10,14 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Header 1
+# Aditi Sharma
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+A data scientist with enthusiasm to explore the various applications of ML and AI such as implementing them to some real life situations , optimization of the architectures and their functioning. 
 
-## Header 2
+## Multi Agent Vehicle Routing Problem 
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+> A vehicle routing problem with multiple agents .
+> Optimization algorithm to replicate the shortest distance path with machine intelligence.
 
 ### Header 3
 
